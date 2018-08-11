@@ -1,0 +1,40 @@
+header h1{
+    text-align: center;
+    text-decoration: underline;
+}
+main{
+    width: 100%;
+    max-width: 700px;
+    margin: auto;
+}
+.user-interface{
+    
+   
+    width: 75%;
+    float: left;
+}
+.scoreboard{
+    
+    width: 25%;
+    float: left;
+    }
+.question-box{
+    width: 75%;
+    margin: 10px auto;
+    border: 1px solid;
+    padding:    10px;
+    height: 100px;
+}
+.answer-box{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.userScore{
+    padding: 10px;
+    border: 1px solid;
+    
+}
+.totalScore{
+    text-align: center;
+}
